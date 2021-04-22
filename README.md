@@ -124,5 +124,5 @@ Here in bottom we can see message from the Feedback Form present in the Contact 
 
 ### Developed By
 
-[Swatik Paul](https://github.com/swatikpl44)
-[Vivek Kamboj](https://github.com/Vivek-Kamboj)
+- [Swatik Paul](https://github.com/swatikpl44)
+- [Vivek Kamboj](https://github.com/Vivek-Kamboj)
