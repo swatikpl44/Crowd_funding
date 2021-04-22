@@ -121,3 +121,8 @@ Here in bottom we can see message from the Feedback Form present in the Contact 
 ## Video Demo
 
 [Click for Demo](https://youtu.be/Xl-5Blm3Pm8)
+
+### Developed By
+
+[Swatik Paul](https://github.com/swatikpl44)
+[Vivek Kamboj](https://github.com/Vivek-Kamboj)
